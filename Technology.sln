@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1703.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technology", "Technology\Technology.csproj", "{478BCC44-371C-4C05-AB29-25302337B832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnologyTests", "TechnologyTests\TechnologyTests.csproj", "{23090D25-3F5A-425C-A38C-7CB8E8EDF2C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{478BCC44-371C-4C05-AB29-25302337B832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478BCC44-371C-4C05-AB29-25302337B832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478BCC44-371C-4C05-AB29-25302337B832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23090D25-3F5A-425C-A38C-7CB8E8EDF2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23090D25-3F5A-425C-A38C-7CB8E8EDF2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23090D25-3F5A-425C-A38C-7CB8E8EDF2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23090D25-3F5A-425C-A38C-7CB8E8EDF2C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
